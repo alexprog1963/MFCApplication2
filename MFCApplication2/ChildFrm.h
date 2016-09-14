@@ -2,6 +2,9 @@
 // ChildFrm.h : interface of the CChildFrame class
 //
 
+
+
+
 #pragma once
 
 class CChildFrame : public CMDIChildWndEx
